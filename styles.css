@@ -2,3 +2,6 @@
     display: flex;
 }
 
+.fname, .femail, .fprofile{
+    font-weight: bold !important;
+} 
